@@ -1,0 +1,5 @@
+[user]
+	name = dawiderter
+	email = dwalczak456@gmail.com
+[credential]
+	helper = /mnt/c/DevStuff/Git/mingw64/libexec/git-core/git-credential-manager-core.exe
