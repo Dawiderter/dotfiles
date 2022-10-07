@@ -1,3 +1,5 @@
+local packer_bootstrap = require("plugins.packer_bootstrap").ensure_packer()
+
 return require('packer').startup(function(use)
     --Packer
     use 'wbthomason/packer.nvim'
@@ -34,5 +36,9 @@ return require('packer').startup(function(use)
     --Themes
     use 'tanvirtin/monokai.nvim'
     use 'rebelot/kanagawa.nvim'
+
+    if packer_bootstrap then
+        require('packer').sync()
+    end
 end)
 
