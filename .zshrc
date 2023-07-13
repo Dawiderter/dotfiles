@@ -110,3 +110,28 @@ alias dotfiles='git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+# The following lines were added by compinstall
+zstyle :compinstall filename '/home/dawiderter/.zshrc'
+
+autoload -Uz compinit
+compinit
+# End of lines added by compinstall
+
+eval "$(zoxide init --cmd z zsh)"
+
+
+# >>> juliaup initialize >>>
+
+# !! Contents within this block are managed by juliaup !!
+
+path=('/home/dawiderter/.juliaup/bin' $path)
+export PATH
+
+# <<< juliaup initialize <<<
+
+# Zig path
+
+path=("$HOME/.zig" $path)
+export PATH
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh

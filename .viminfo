@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :q
-|2,0,1665078989,,"q"
+|2,0,1675290325,,"q"
 :help iccf
 |2,0,1660391874,,"help iccf"
 
@@ -27,22 +27,60 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.zshrc
-|4,48,1,0,1665078989,"~/.zshrc"
-'1  4  0  ~/.config/nvim/log
-|4,49,4,0,1659540416,"~/.config/nvim/log"
-'2  49  0  ~/log
-|4,50,49,0,1659526233,"~/log"
-'3  59  0  ~/log
-|4,51,59,0,1659525233,"~/log"
-'4  59  0  ~/log
-|4,52,59,0,1659525233,"~/log"
+'0  1  0  ~/AKiSO/268452/lista_3/zadanie6_24bit.c
+|4,48,1,0,1669380355,"~/AKiSO/268452/lista_3/zadanie6_24bit.c"
+'1  6  0  ~/AKiSO/268452/lista_3/zadanie6_8bit.c
+|4,49,6,0,1669380322,"~/AKiSO/268452/lista_3/zadanie6_8bit.c"
+'2  1  0  ~/.zshrc
+|4,50,1,0,1665078989,"~/.zshrc"
+'3  4  0  ~/.config/nvim/log
+|4,51,4,0,1659540416,"~/.config/nvim/log"
+'4  49  0  ~/log
+|4,52,49,0,1659526233,"~/log"
 '5  59  0  ~/log
-|4,53,59,0,1659524457,"~/log"
+|4,53,59,0,1659525233,"~/log"
 '6  59  0  ~/log
-|4,54,59,0,1659524457,"~/log"
+|4,54,59,0,1659525233,"~/log"
+'7  59  0  ~/log
+|4,55,59,0,1659524457,"~/log"
+'8  59  0  ~/log
+|4,56,59,0,1659524457,"~/log"
 
 # Jumplist (newest first):
+-'  1  0  ~/AKiSO/268452/lista_3/zadanie6_24bit.c
+|4,39,1,0,1669380355,"~/AKiSO/268452/lista_3/zadanie6_24bit.c"
+-'  1  0  ~/AKiSO/268452/lista_3/zadanie6_24bit.c
+|4,39,1,0,1669380355,"~/AKiSO/268452/lista_3/zadanie6_24bit.c"
+-'  6  0  ~/AKiSO/268452/lista_3/zadanie6_8bit.c
+|4,39,6,0,1669380322,"~/AKiSO/268452/lista_3/zadanie6_8bit.c"
+-'  6  0  ~/AKiSO/268452/lista_3/zadanie6_8bit.c
+|4,39,6,0,1669380322,"~/AKiSO/268452/lista_3/zadanie6_8bit.c"
+-'  6  0  ~/AKiSO/268452/lista_3/zadanie6_8bit.c
+|4,39,6,0,1669380322,"~/AKiSO/268452/lista_3/zadanie6_8bit.c"
+-'  6  0  ~/AKiSO/268452/lista_3/zadanie6_8bit.c
+|4,39,6,0,1669380322,"~/AKiSO/268452/lista_3/zadanie6_8bit.c"
+-'  1  0  ~/AKiSO/268452/lista_3/zadanie6_8bit.c
+|4,39,1,0,1669380209,"~/AKiSO/268452/lista_3/zadanie6_8bit.c"
+-'  1  0  ~/AKiSO/268452/lista_3/zadanie6_8bit.c
+|4,39,1,0,1669380209,"~/AKiSO/268452/lista_3/zadanie6_8bit.c"
+-'  1  0  ~/AKiSO/268452/lista_3/zadanie6_8bit.c
+|4,39,1,0,1669380209,"~/AKiSO/268452/lista_3/zadanie6_8bit.c"
+-'  1  0  ~/AKiSO/268452/lista_3/zadanie6_8bit.c
+|4,39,1,0,1669380209,"~/AKiSO/268452/lista_3/zadanie6_8bit.c"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1665078989,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1665078989,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1665078989,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1665078989,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1665078989,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1665078989,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1665078989,"~/.zshrc"
 -'  1  0  ~/.zshrc
 |4,39,1,0,1665078989,"~/.zshrc"
 -'  4  0  ~/.config/nvim/log
@@ -61,6 +99,118 @@
 |4,39,4,0,1659540416,"~/.config/nvim/log"
 -'  4  0  ~/.config/nvim/log
 |4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
+-'  4  0  ~/.config/nvim/log
+|4,39,4,0,1659540416,"~/.config/nvim/log"
 -'  1  0  ~/.config/nvim/log
 |4,39,1,0,1659540386,"~/.config/nvim/log"
 -'  1  0  ~/.config/nvim/log
@@ -77,174 +227,34 @@
 |4,39,1,0,1659540386,"~/.config/nvim/log"
 -'  1  0  ~/.config/nvim/log
 |4,39,1,0,1659540386,"~/.config/nvim/log"
--'  49  0  ~/log
-|4,39,49,0,1659526233,"~/log"
--'  49  0  ~/log
-|4,39,49,0,1659526233,"~/log"
--'  49  0  ~/log
-|4,39,49,0,1659526233,"~/log"
--'  49  0  ~/log
-|4,39,49,0,1659526233,"~/log"
--'  49  0  ~/log
-|4,39,49,0,1659526233,"~/log"
--'  49  0  ~/log
-|4,39,49,0,1659526233,"~/log"
--'  49  0  ~/log
-|4,39,49,0,1659526233,"~/log"
--'  49  0  ~/log
-|4,39,49,0,1659526233,"~/log"
--'  49  0  ~/log
-|4,39,49,0,1659526233,"~/log"
--'  49  0  ~/log
-|4,39,49,0,1659526233,"~/log"
--'  49  0  ~/log
-|4,39,49,0,1659526233,"~/log"
--'  49  0  ~/log
-|4,39,49,0,1659526233,"~/log"
--'  49  0  ~/log
-|4,39,49,0,1659526233,"~/log"
--'  49  0  ~/log
-|4,39,49,0,1659526233,"~/log"
--'  49  0  ~/log
-|4,39,49,0,1659526233,"~/log"
--'  49  0  ~/log
-|4,39,49,0,1659526233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659526206,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659526206,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659526206,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659526206,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659526206,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659526206,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659526206,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659526206,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659526206,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659526206,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659526206,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659526206,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659526206,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659526206,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659526206,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659526206,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659525233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659525233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659525233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659525233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659525233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659525233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659525233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659525233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659525233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659525233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659525233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659525233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659525233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659525233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659525233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659525233,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659524457,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659524457,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659524457,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659524457,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659524457,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659524457,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659524457,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659524457,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659524457,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659524457,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659524457,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659524457,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659524457,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659524457,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659524457,"~/log"
--'  59  0  ~/log
-|4,39,59,0,1659524457,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
--'  1  0  ~/log
-|4,39,1,0,1659524270,"~/log"
+-'  1  0  ~/.config/nvim/log
+|4,39,1,0,1659540386,"~/.config/nvim/log"
+-'  1  0  ~/.config/nvim/log
+|4,39,1,0,1659540386,"~/.config/nvim/log"
+-'  1  0  ~/.config/nvim/log
+|4,39,1,0,1659540386,"~/.config/nvim/log"
+-'  1  0  ~/.config/nvim/log
+|4,39,1,0,1659540386,"~/.config/nvim/log"
+-'  1  0  ~/.config/nvim/log
+|4,39,1,0,1659540386,"~/.config/nvim/log"
+-'  1  0  ~/.config/nvim/log
+|4,39,1,0,1659540386,"~/.config/nvim/log"
+-'  1  0  ~/.config/nvim/log
+|4,39,1,0,1659540386,"~/.config/nvim/log"
+-'  1  0  ~/.config/nvim/log
+|4,39,1,0,1659540386,"~/.config/nvim/log"
+-'  1  0  ~/.config/nvim/log
+|4,39,1,0,1659540386,"~/.config/nvim/log"
 
 # History of marks within files (newest to oldest):
+
+> ~/AKiSO/268452/lista_3/zadanie6_24bit.c
+	*	1669380325	0
+	"	1	0
+
+> ~/AKiSO/268452/lista_3/zadanie6_8bit.c
+	*	1669380215	0
+	"	6	0
 
 > ~/.zshrc
 	*	1665078987	0
